@@ -45,13 +45,8 @@ Somos especializados no desenvolvimento de **infraestrutura online completa** pa
 
 ---
 
-## Estatísticas
+Projetos: ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/VoidCube-Tech&label=Repositórios&query=$.public_repos&color=blue)
 
-<div align="center">
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/VoidCube-Tech&label=Repositórios&query=$.public_repos&color=blue)
-
-</div>
 
 ---
 
