@@ -2,6 +2,8 @@
 
 # CubeVoid
 
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/VoidCube-Tech&label=Repositórios&query=$.public_repos&color=blue)
+
 ### Desenvolvendo infraestrutura online sob medida para o seu negócio
 
 [![Website](https://img.shields.io/badge/Website-visite--nos-blue?style=for-the-badge)](#)
@@ -42,11 +44,6 @@ Somos especializados no desenvolvimento de **infraestrutura online completa** pa
 - **Aplicativos mobile** nativos em Kotlin/Compose
 - **APIs e integrações** para sustentar toda a infraestrutura digital do seu negócio
 - **Infraestrutura online** completa, do backend ao deploy
-
----
-
-Projetos: ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/VoidCube-Tech&label=Repositórios&query=$.public_repos&color=blue)
-
 
 ---
 
